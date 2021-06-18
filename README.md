@@ -1,6 +1,6 @@
 # Programming Guides
 
-## Content
+## Contents
 
 - [VPS](https://github.com/tediafajrin/guides/blob/main/guides/VPS.md)
 
