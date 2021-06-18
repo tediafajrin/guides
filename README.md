@@ -2,7 +2,7 @@
 
 ## Content
 
-- [VPS](https://github.com/tediafajrin/guides/vps.md)
+- [VPS](https://github.com/tediafajrin/guides/blob/main/guides/VPS.md)
 
 #
 
